@@ -1,4 +1,4 @@
-# Horcrux1
+# Just Shop
 Just Shop 
 Just Shop is a online Web site. where a user can visit the website and buy any item based on the category of his choice.
 When user wants to buy any item he has to create an account on portal. 
